@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/asd/asd.iml" filepath="$PROJECT_DIR$/asd/asd.iml" />
       <module fileurl="file://$PROJECT_DIR$/git02.iml" filepath="$PROJECT_DIR$/git02.iml" />
     </modules>
   </component>
